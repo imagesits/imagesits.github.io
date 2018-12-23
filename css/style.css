@@ -66,12 +66,12 @@
 		background-image: url(../img/bg-portrait.png);
 	}
 	#wadah-tulisan{
-		font-size: 40px;
+		font-size: 28px;
 		top: 30%;
 	}
 	#tgl{
-		width: 100px;
-		height: 70px;
+		width: 90px;
+		height: 63px;
 	}
 	#logo{
 		right: 0;
